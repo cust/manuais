@@ -1,0 +1,7 @@
+O layout oficial a ser utilizado é o do item 1) abaixo:
+
+1) Bradesco, no arquivo: layout_cobranca 30.7.2013.pdf
+
+2) UNICRED, no arquivo: Cobexpess - Boleto padrão + Layout CNAB 400 (N).pdf
+
+O manual informado no item 2) é de apoio no que trata das particularidades Unicred.
