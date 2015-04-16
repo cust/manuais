@@ -1,0 +1,32 @@
+    Um grande número de transportadoras realiza serviços fora de seus ESTADOS SEDE. E tenho percebido dificuldades de nossos clientes e parceiros quando o assunto é recolhimento de ICMS sobre estes serviços.
+
+Consideremos como SEDE da transportadora, a UF (Unidade da Federação – ou simplesmente, ESTADO), em que a transportadora possui IE (Inscrição Estadual).
+
+Vamos considerar também, para o exemplo, que a Transportadora BÃO DE FRETE, possui sua sede no estado de SP (São Paulo).
+
+Sempre que houver emissão de conhecimento de transporte, para coletas realizadas dentro do estado de SP, não haverá preocupação com a tributação do ICMS, pois já se sabe quais alíquotas serão consideradas, e quais CFOPs poderão ser utilizados. (CFOP = CÓDIGO FISCAL DE OPERAÇÕES E PRESTAÇÕES). O recolhimento do ICMS se dará para o estado de SP, local de origem da prestação de serviços de transporte.
+
+O desafio começa quando a coleta ocorre FORA DO ESTADO SEDE da transportadora, ou seja, fora de SP.
+
+Para uma coleta no estado do RJ, por exemplo, como a transportadora BÃO DE FRETE não possui IE no RJ, emitirá um conhecimento de transporte cuja IE pertence ao estado de SP.
+Ocorre que a tributação do ICMS não se dará para o estado de SP, pois o serviço está sendo iniciado no estado do RJ, e o fisco do RJ exigirá o respectivo ICMS.
+
+Sendo assim, utiliza-se alíquota de ICMS atribuída pela origem da prestação no RJ, e se fará necessário recolher o ICMS através de GNRE – GUIA NACIONAL DE RECOLHIMENTO DE TRIBUTOS ESTADUAIS, para o estado do RJ. Esta GNRE será paga antecipadamente, para que o serviço de transporte possa ser realizado, isentando a transportadora de problemas com o fisco.
+
+É aqui que entra a figura do CFOP 5932/6932. Quando um ou outro será utilizado? É simples:
+
+– CFOP 5932: Será utilizado quando a coleta (início da prestação de serviços), iniciar fora da UF sede da transportadora, e terminar dentro da UF sede da transportadora. Para a Transportadora BÃO DE FRETE, ocorrerá nos casos em que a coleta iniciar no RJ ou em qualquer outro estado diferente de SP, e a entrega ocorrer dentro do estado de SP. (Ex.: COLETA RJ x ENTREGA SP).
+
+– CFOP 6932: Será utilizado quando a coleta iniciar fora da UF sede da transportadora, e terminar fora da UF sede da transportadora. Para a Transportadora BÃO DE FRETE, ocorrerá nos casos em que a coleta iniciar no RJ ou em qualquer outro estado diferente de SP, e a entrega ocorrer em qualquer estado fora de SP. (Ex.: COLETA RJ x ENTREGA MG).
+
+No campo de observação do conhecimento de transporte, deverá constar a informação de que o Recolhimento do ICMS se dará através de GNRE em anexo, ou seja, a GNRE paga, deverá ser anexada ao conhecimento impresso, para comprovar, em casos de fiscalização, que houve de fato o recolhimento antecipado.
+
+Caso em sua empresa ocorrer este tipo de serviço, na dúvida, sempre consulte o seu departamento fiscal, pois além deste conhecer a fundo as particularidades da sua empresa, a ONTIME não assume responsabilidade sobre esta interpretação. Visamos aqui apenas clarear e nortear os profissionais de transportes que encontram dificuldades para entender a finalidade do uso destes CFOPs, e principalmente, em que momento eles ocorrem.
+
+O nome “Transportadora BÃO DE FRETE” é fictício, e foi utilizado apenas para facilitar o entendimento.
+
+Esperamos que tenhamos conseguido atingir nosso objetivo.
+
+
+
+Fonte: http://ontime.inf.br/blogontime/cfop-5932-e-6932-servico-de-transporte-fora-da-sede-da-transportadora/
