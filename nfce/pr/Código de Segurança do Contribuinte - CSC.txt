@@ -1,0 +1,9 @@
+O CSC - Código de Segurança do Contribuinte é um código de segurança alfanumérico de conhecimento apenas da SEFA/PR e do contribuinte (sócio), utilizado para gerar o código bidimensional, denominado "QR Code" da NFC-e.
+
+Para o contribuinte obter a autorização de uso de NFC-e transmitida para o Sistema Próprio de NFC-e do Paraná deve previamente solicitar o Código de Segurança do Contribuinte - CSC, conforme previsto na NPF 100/2014.
+
+A geração do CSC está disponível no Portal RECEITA/PR, Serviço: Menu DF-e /NFC-e / CSC / Controle. Neste serviço o contribuinte (sócio) poderá solicitar, revogar e consultar o CSC de sua empresa (CNPJ Base 8 dígitos).
+
+A empresa no Estado poderá ter até 2 CSC válidos por ambiente (homologação e produção) que poderão ser utilizados por todos os estabelecimentos paranaenses (CNPJ 14 dígitos).
+
+Fonte: http://www.sped.fazenda.pr.gov.br/modules/conteudo/conteudo.php?conteudo=103

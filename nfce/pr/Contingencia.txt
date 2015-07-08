@@ -1,0 +1,12 @@
+No Estado do Paraná a única modalidade de contingência adotada para NFC-e é a denominada “Contingência Offline”, conforme previsto nos parágrafos 15 e 16, Art. 10, Anexo IX, do RICMS/PR.
+
+Nesta modalidade, o contribuinte que estiver com problemas técnicos para autorização poderá emitir a NFC-e, assinar e imprimir o respectivo DANFE NFC-e Completo (com Detalhe da Venda) sem a autorização prévia da SEFA/PR.
+
+Superado o problema técnico e em até 24 horas da emissão a NFC-e em contingência deve ser transmitida para o Sistema Autorizador da NFC-e do Paraná para autorização de uso.
+
+A decisão pela entrada em contingência é exclusiva do contribuinte, devendo ser utilizada nas situações em que ocorram problemas técnicos de comunicação ou processamento de informações que impeçam a autorização da NFC-e em tempo real. Não existe exigência de autorização prévia do Fisco para entrada em contingência.
+
+Mais informações consultar Manual de Especificações da Contingência Offline para NFC-e - versão 1.2.
+
+
+Fonte: http://www.sped.fazenda.pr.gov.br/modules/conteudo/conteudo.php?conteudo=99
