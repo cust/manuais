@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lote 
+xmlns="http://www.nfem.joinville.sc.gov.br"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.nfem.joinville.sc.gov.br rps_1.0.xsd">
+  <versao>1.0</versao>
+  <numero>2</numero>
+  <tipo>1</tipo>
+  <prestador>
+    <documento>02339928000120</documento>
+    <razao_social>Razão Social</razao_social>
+  </prestador>
+  
+  <rps>
+    <serie>1</serie>
+    <data>2008-11-01</data>
+    <numero>1</numero>
+    <operacao>I</operacao>
+    <tipo>1</tipo>
+
+    <tomador>
+      <documento>99999999999999</documento>
+      <nome>Nome do Tomador</nome>
+      <inscricao_municipal>123</inscricao_municipal>
+      <email>mail@mail.com</email>
+      <situacao_especial>4</situacao_especial>
+      <cep>89201203</cep>
+      <endereco>Marechal Deodoro </endereco>
+      <numero>200</numero>
+      <complemento>apt. 2005</complemento>
+      <bairro>Centro</bairro>
+    </tomador>
+
+    <descricao_servicos>Descrição de Serviço</descricao_servicos>
+    <valor_total>110.00</valor_total>
+    <valor_deducao>10.00</valor_deducao>
+    <servico>1.01</servico>
+    <aliquota_iss>2.00</aliquota_iss>
+    <valor_iss>2.00</valor_iss>
+    <iss_retido>0</iss_retido>
+    <valor_irrf>1.50</valor_irrf>
+    <valor_inss>11.00</valor_inss>
+    <valor_pis>0.65</valor_pis>
+    <valor_cofins>3.00</valor_cofins>
+    <valor_csll>1.00</valor_csll>
+    <local_servico>Florianópolis</local_servico>
+    <destino_servico>0</destino_servico>
+  </rps>
+
+  <rps>
+    <numero>1</numero>
+    <data>2007-11-01</data>
+    <operacao>A</operacao>
+    <tipo>2</tipo>
+    
+    <tomador>
+      <documento>11111111111</documento>
+      <nome>Nome Tomador</nome>
+      <situacao_especial>1</situacao_especial>
+      <cep>88010140</cep>
+      <endereco>Alameda Adolfo-Konder</endereco>
+      <bairro>Centro</bairro>
+      <cidade>Florianópolis</cidade>
+      <estado>SC</estado>
+    </tomador>
+
+
+    <descricao_servicos>Descrição do Serviço</descricao_servicos>
+    <valor_total>100.00</valor_total>
+    <servico>14.05</servico>
+    <aliquota_iss>5.00</aliquota_iss>
+    <valor_iss>5.00 </valor_iss>
+    <iss_retido>1</iss_retido>
+  </rps>
+</lote>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lote 
+xmlns="http://www.nfem.joinville.sc.gov.br"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.nfem.joinville.sc.gov.br dir_1.0.xsd">
+  <versao>1.0</versao>
+  <numero>2</numero>
+  <tipo>2</tipo>
+  <tomador>
+    <documento>02339928000120</documento>
+    <razao_social>Razão Social</razao_social>
+  </tomador>
+
+  <dir>
+    <numero>1</numero>
+    <serie>1</serie>
+    <data_emissao>2008-11-01</data_emissao>
+
+    <prestador>
+      <documento>11111111111111</documento>
+      <nome>Nome Prestador</nome>
+      <cidade>Florianópolis</cidade>
+      <estado>SC</estado>
+    </prestador>
+
+    <valor_total>1000.00</valor_total>
+    <valor_base_calculo>100.0</valor_base_calculo>
+    <servico>1.01</servico>
+    <valor_iss>2.0</valor_iss>
+    <aliquota_iss>2.00</aliquota_iss>
+  </dir>
+
+  <dir>
+    <numero>2</numero>
+    <serie>1</serie>
+    <data_emissao>2008-11-01</data_emissao>
+
+    <prestador>
+      <documento>11111111111</documento>
+      <nome>Nome Prestador</nome>
+      <cidade>Joinville</cidade>
+      <estado>SC</estado>
+    </prestador>
+
+    <valor_total>100.00</valor_total>
+    <valor_base_calculo>100.00</valor_base_calculo>
+    <servico>14.05</servico>
+    <valor_iss>5.00</valor_iss>
+    <aliquota_iss>5.00</aliquota_iss>
+  </dir>
+</lote>

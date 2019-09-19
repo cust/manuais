@@ -1,0 +1,66 @@
+<ConsultarNfseRpsResposta xmlns="http://nfewshomologacao.joinville.sc.gov.br">
+  <CompNfse>
+    <Nfse versao="1.00">
+      <InfNfse>
+        <Numero>111111111111111</Numero>
+        <CodigoVerificacao>AAAAAAAAA</CodigoVerificacao>
+        <DataEmissao>2017-08-11T17:54:23</DataEmissao>
+        <ValoresNfse>
+          <BaseCalculo>1234.56</BaseCalculo>
+          <Aliquota>5</Aliquota>
+          <ValorIss>1.23</ValorIss>
+          <ValorLiquidoNfse>1123.45</ValorLiquidoNfse>
+        </ValoresNfse>
+        <PrestadorServico>
+          <RazaoSocial>Razão Social Ltda.</RazaoSocial>
+          <Endereco>
+            <Endereco>Rua Principal</Endereco>
+            <Numero>S/N</Numero>
+            <Complemento>Bloco 777</Complemento>
+            <Bairro>Centro</Bairro>
+            <CodigoMunicipio>4209102</CodigoMunicipio>
+            <Uf>SC</Uf>
+            <Cep>77777777</Cep>
+          </Endereco>
+        </PrestadorServico>
+        <OrgaoGerador>
+          <CodigoMunicipio>4209102</CodigoMunicipio>
+          <Uf>SC</Uf>
+        </OrgaoGerador>
+        <DeclaracaoPrestacaoServico>
+          <InfDeclaracaoPrestacaoServico Id="infPS_1">
+            <Competencia>2017-08-11</Competencia>
+            <Servico>
+              <Valores>
+                <ValorServicos>1234.56</ValorServicos>
+                <ValorDeducoes>1.23</ValorDeducoes>
+                <ValorPis>1.23</ValorPis>
+                <ValorCofins>1.23</ValorCofins>
+                <ValorInss>1.23</ValorInss>
+                <ValorIr>1.23</ValorIr>
+                <ValorCsll>1.23</ValorCsll>
+                <OutrasRetencoes>1.23</OutrasRetencoes>
+                <ValTotTributos>1.23</ValTotTributos>
+                <ValorIss>1.23</ValorIss>
+                <Aliquota>5</Aliquota>
+              </Valores>
+              <IssRetido>1</IssRetido>
+              <ItemListaServico>01.01</ItemListaServico>
+              <Discriminacao>Descrição do serviço prestado.</Discriminacao>
+              <CodigoMunicipio>4209102</CodigoMunicipio>
+              <CodigoPais>0076</CodigoPais>
+              <ExigibilidadeISS>1</ExigibilidadeISS>
+            </Servico>
+            <Prestador>
+              <CpfCnpj>
+                <Cnpj>99999999999999</Cnpj>
+              </CpfCnpj>
+            </Prestador>
+            <OptanteSimplesNacional>2</OptanteSimplesNacional>
+            <IncentivoFiscal>2</IncentivoFiscal>
+          </InfDeclaracaoPrestacaoServico>
+        </DeclaracaoPrestacaoServico>
+      </InfNfse>
+    </Nfse>
+  </CompNfse>
+</ConsultarNfseRpsResposta>

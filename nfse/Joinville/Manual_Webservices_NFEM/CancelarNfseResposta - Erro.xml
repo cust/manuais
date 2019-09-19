@@ -1,0 +1,9 @@
+<CancelarNfseResposta xmlns="http://nfewshomologacao.joinville.sc.gov.br">
+	<ListaMensagemRetorno>
+		<MensagemRetorno>
+			<Codigo>C009</Codigo>
+			<Mensagem>Mensagem do erro C009.</Mensagem>
+			<Correcao>Correção para o erro C009</Correcao>
+		</MensagemRetorno>
+	</ListaMensagemRetorno>
+</CancelarNfseResposta>

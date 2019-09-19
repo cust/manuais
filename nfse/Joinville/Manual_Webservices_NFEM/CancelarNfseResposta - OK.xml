@@ -1,0 +1,21 @@
+<CancelarNfseResposta xmlns="http://nfewshomologacao.joinville.sc.gov.br">
+	<RetCancelamento>
+		<NfseCancelamento versao="1.00">
+			<Confirmacao>
+				<Pedido>
+					<InfPedidoCancelamento Id="NF12345">
+						<IdentificacaoNfse>
+			        <Numero>12345</Numero>
+			        <CpfCnpj>
+			          <Cnpj>99999999999999</Cnpj>
+			        </CpfCnpj>
+			        <CodigoMunicipio>4209102</CodigoMunicipio>
+			      </IdentificacaoNfse>
+			      <CodigoCancelamento>1</CodigoCancelamento>
+					</InfPedidoCancelamento>
+				</Pedido>
+				<DataHora>2017-08-18T11:10:17</DataHora>
+			</Confirmacao>
+		</NfseCancelamento>
+	</RetCancelamento>
+</CancelarNfseResposta>

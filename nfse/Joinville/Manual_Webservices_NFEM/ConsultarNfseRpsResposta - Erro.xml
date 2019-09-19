@@ -1,0 +1,8 @@
+<ConsultarNfseRpsResposta xmlns="http://nfewshomologacao.joinville.sc.gov.br">
+  <ListaMensagemRetorno>
+    <MensagemRetorno>
+      <Codigo>1</Codigo>
+      <Mensagem>Mensagem de retorno.</Mensagem>
+    </MensagemRetorno>
+  </ListaMensagemRetorno>
+</ConsultarNfseRpsResposta>

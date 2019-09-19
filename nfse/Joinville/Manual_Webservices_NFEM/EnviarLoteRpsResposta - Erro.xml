@@ -1,0 +1,9 @@
+<EnviarLoteRpsResposta xmlns="http://nfewshomologacao.joinville.sc.gov.br">
+  <ListaMensagemRetorno>
+    <MensagemRetorno>
+      <Codigo>E001</Codigo>
+      <Mensagem>RPS 999999999999999 - CPF/CNPJ do tomador de serviços inválido.</Mensagem>
+      <Correcao>Verifique o CPF/CNPJ informado e envie novamente o lote.</Correcao>
+    </MensagemRetorno>
+  </ListaMensagemRetorno>
+</EnviarLoteRpsResposta>

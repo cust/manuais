@@ -1,0 +1,23 @@
+<ConsultarLoteRpsResposta xmlns="http://nfewshomologacao.joinville.sc.gov.br">
+	<Situacao>3</Situacao>
+	<ListaMensagemRetornoLote>
+		<MensagemRetorno>
+			<IdentificacaoRps>
+				<Numero>999999999999999</Numero>
+				<Serie>A</Serie>
+				<Tipo>1</Tipo>
+			</IdentificacaoRps>
+			<Codigo>E001</Codigo>
+			<Mensagem>Descrição do erro E001.</Mensagem>
+		</MensagemRetorno>
+		<MensagemRetorno>
+			<IdentificacaoRps>
+				<Numero>88888888888888</Numero>
+				<Serie>B</Serie>
+				<Tipo>2</Tipo>
+			</IdentificacaoRps>
+			<Codigo>E002</Codigo>
+			<Mensagem>Descrição do erro E002.</Mensagem>
+		</MensagemRetorno>
+	</ListaMensagemRetornoLote>
+</ConsultarLoteRpsResposta>
